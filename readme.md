@@ -1,6 +1,6 @@
 # PaisaProfit
 
-Welcome to TradingSimVanilla, a trading simulation project for the hackathon.
+Welcome to PaisaProfit, a trading simulation project for the hackathon.
 
 ## Table of Contents
 - [Introduction](#introduction)
