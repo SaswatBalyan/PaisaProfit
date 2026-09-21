@@ -1,4 +1,4 @@
-# PaisaProfit
+# PaisaProfit.
 
 Welcome to PaisaProfit, a trading simulation project for the hackathon.
 
